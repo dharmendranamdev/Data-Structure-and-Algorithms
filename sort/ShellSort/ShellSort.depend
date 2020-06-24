@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1579463781 source:f:\mca@4thsem\algo\programs\shellsort\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

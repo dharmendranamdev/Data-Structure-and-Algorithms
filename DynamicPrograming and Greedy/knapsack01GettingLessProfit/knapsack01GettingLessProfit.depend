@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1587368538 source:f:\mca@4thsem\algo\programs\knapsack01gettinglessprofit\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

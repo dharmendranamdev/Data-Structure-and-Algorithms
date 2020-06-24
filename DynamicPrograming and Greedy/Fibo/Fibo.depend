@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1580275502 source:f:\mca@4thsem\algo\programs\dynamicprograming\fibo\main.cpp
+	<iostream>
+	<cmath>
+

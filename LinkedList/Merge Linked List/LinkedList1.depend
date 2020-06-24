@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1580587655 source:f:\mca@4thsem\algo\programs\linkedlist1\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

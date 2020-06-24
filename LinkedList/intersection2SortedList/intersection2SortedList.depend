@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1581753115 source:f:\c++program\campus\linkedlist\intersection2sortedlist\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+

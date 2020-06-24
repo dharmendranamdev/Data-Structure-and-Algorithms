@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1583707713 source:f:\mca@4thsem\algo\programs\coinchangeproblems\noofways\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1580626469 source:f:\mca@4thsem\algo\programs\linkedlistreverse\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+

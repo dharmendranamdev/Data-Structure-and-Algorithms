@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1581704945 source:f:\mca@4thsem\algo\programs\minheapdeletion\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

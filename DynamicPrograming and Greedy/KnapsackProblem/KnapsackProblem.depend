@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1587364023 source:f:\mca@4thsem\algo\programs\knapsackproblem\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1580584275 source:f:\mca@4thsem\algo\programs\dynamicprograming\limkedlist1\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+

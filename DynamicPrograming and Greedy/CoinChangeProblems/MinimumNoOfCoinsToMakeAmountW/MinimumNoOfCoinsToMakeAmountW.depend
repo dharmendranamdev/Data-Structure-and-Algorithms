@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1583715065 source:f:\mca@4thsem\algo\programs\coinchangeproblems\minimumnoofcoinstomakeamountw\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

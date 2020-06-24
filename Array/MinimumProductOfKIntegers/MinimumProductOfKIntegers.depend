@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1576692388 source:f:\c++program\campus\array\minimumproductofkintegers\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<algorithm>
+

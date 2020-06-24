@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1576915525 source:f:\c++program\campus\array\norepeateddigits\main.cpp
+	<bits/stdc++.h>
+	<sstream>
+

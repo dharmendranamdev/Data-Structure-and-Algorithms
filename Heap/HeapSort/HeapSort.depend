@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1580186840 source:f:\mca@4thsem\algo\programs\heapsort\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
